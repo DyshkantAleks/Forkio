@@ -9,7 +9,7 @@
 .header__wrapper {
   min-width: 320px;
   margin: 0 auto;
-  background: bottom no-repeat url(../../img/header-bg.jpg);
+  background: bottom no-repeat url(../img/header-bg.jpg);
   background-size: cover;
 }
 
@@ -48,7 +48,7 @@
   width: 43px;
   height: 41px;
   display: block;
-  background-image: url(../../img/sprite.png);
+  background-image: url(../img/sprite.png);
 }
 
 .header__menu li:hover a {
@@ -328,7 +328,7 @@
 .reviews {
   text-align: center;
   padding: 55px 15px;
-  background: no-repeat url(../../img/reviews-bg.jpg);
+  background: no-repeat url(../img/reviews-bg.jpg);
   background-position: center;
   background-size: cover;
   margin-bottom: -15px;
@@ -360,7 +360,7 @@
 .subscription-pricing {
   text-align: center;
   padding: 75px 15px;
-  background: no-repeat url(../../img/reviews-bg.jpg);
+  background: no-repeat url(../img/reviews-bg.jpg);
   background-size: cover;
 }
 
